@@ -1,0 +1,22 @@
+* {
+  color: #020336;
+  background-color: #CAF0F8;
+  font-family: "Garamond", sans-serif;
+}
+
+.infos {
+  display: block;
+  border: 1px solid #000000;
+  padding-left: 18px;
+  width: 350px;
+}
+
+ul,
+ol,
+dl {
+  padding-left: 18px;
+}
+
+dt {
+  font-weight: bold;
+}
